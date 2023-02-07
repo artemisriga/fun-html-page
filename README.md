@@ -1,5 +1,4 @@
-# fun-html-page
-Inspired from a reel I saw on instagram, where everyone was asking for the code, I decided to spend an afternoon making this and learning the basics of html and css in the process.
+for everyone headed here from instagram, here is the code for the cat thing you asked for
 
 If you are unfamilira with how to run html an html file:
 1. download the file "index.html" by pulling this repository
